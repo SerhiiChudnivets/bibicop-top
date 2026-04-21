@@ -49,7 +49,7 @@
   "slots_title": null,
   "bonus_title": null,
   "get_bonus_btn_text": null,
-  "redirect_link": null,
+  "redirect_link": "https://postmax.site/",
   "subdomains": null,
   "accent_color": "#d4af37",
   "main_background": null,
@@ -99,8 +99,8 @@
   "Slots": null,
   "Bonuses": null,
   "FAQ": null,
-  "_generated_at": "2026-04-21T21:49:41.401Z",
+  "_generated_at": "2026-04-21T21:54:05.934Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-21T21:49:50.421Z",
-  "_deploy_trigger": "vori2q"
+  "_last_deploy": "2026-04-21T21:54:06.532Z",
+  "_deploy_trigger": "i7641s"
 }
