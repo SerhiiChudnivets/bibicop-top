@@ -25,6 +25,7 @@
       "template": "landing",
       "isHomepage": false,
       "order": 0,
+      "lang": null,
       "faqTitle": null,
       "sections": null,
       "faq": null,
@@ -149,8 +150,8 @@
       "question": "Question 2"
     }
   ],
-  "_generated_at": "2026-04-22T10:27:49.461Z",
+  "_generated_at": "2026-04-22T10:45:35.120Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-22T10:27:56.460Z",
-  "_deploy_trigger": "14hegi"
+  "_last_deploy": "2026-04-22T10:45:41.015Z",
+  "_deploy_trigger": "v1jx46n"
 }
