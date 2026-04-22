@@ -55,7 +55,7 @@
       }
     ]
   },
-  "redirect_site": "https://postmax.site/",
+  "redirect_site": null,
   "hero_title": "TIts",
   "hero_subtitle": null,
   "hero_badge": null,
@@ -149,8 +149,8 @@
       "question": "Question 2"
     }
   ],
-  "_generated_at": "2026-04-22T10:22:07.119Z",
+  "_generated_at": "2026-04-22T10:27:49.461Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-22T10:22:14.919Z",
-  "_deploy_trigger": "2lksf8"
+  "_last_deploy": "2026-04-22T10:27:50.078Z",
+  "_deploy_trigger": "m2dnle"
 }
